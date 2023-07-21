@@ -1,11 +1,9 @@
-### Hi there 👋
-
-# I'm Maria Mendonca
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/jigar-sable/" target="_blank"> Maria Mendonca </a></h1>
+<!--
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Frontend+Developer+%3A)" /> </h3>
+-->
 
 ### A beginner developer looking to learn new Technologies
-<!--
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%230EDB76&title_bg=%231D1616&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
--->
 
 ### My Current Skills
 <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
