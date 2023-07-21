@@ -39,5 +39,13 @@
 - 📫 How to reach me: [Maria's LinkedIn](https://linkedin.com/in/mariamendonca)
 - 😄 Pronouns: `She/Her`
 
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=mendoncamaria&show_icons=true&theme=dark&locale=en" alt="mendoncamaria" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mendoncamaria&show_icons=true&theme=dark&locale=en&layout=compact" alt="mendoncamaria" /></td>
+  </tr>
+</table>
 
-![](https://github-readme-stats-ssggoku.vercel.app/api/?username=mendoncamaria&custom_title=Maria's%20Github%20Stats&show_icons=true&layout=default)  
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mendoncamaria&theme=dark" alt="mendoncamaria" /></p>
+  </div>
