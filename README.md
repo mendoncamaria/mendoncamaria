@@ -45,5 +45,5 @@
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mendoncamaria&theme=dracula" alt="mendoncamaria" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mendoncamaria&theme=dracula&mode=daily" alt="mendoncamaria" /></p>
   </div>
