@@ -1,7 +1,5 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/jigar-sable/" target="_blank"> Maria Mendonca </a></h1>
-<!--
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Frontend+Developer+%3A)" /> </h3>
--->
+<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F7226F&width=600&lines=Fullstack+Developer;Cloud+Engineer" alt="Typing SVG" /></a></h2>
 
 ### A beginner developer looking to learn new Technologies
 
