@@ -30,14 +30,10 @@
   <a href="mailto:freelancermariamendonca@gmail.com" target="_blank">
      <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-   <a href="https://www.instagram.com/_maria_mendonca" target="_blank">
-      <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-   </a>
 </div>
 <br />
 <br />
 
-### My Current Skills
 <h3 align="left">Web Tech Stack :</h3>
 <div align="left">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -93,11 +89,6 @@
 <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>  
 <br /><br />
-<!--
-### My favorite Version Control:
-<code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
-
--->
 
 
 <table>
