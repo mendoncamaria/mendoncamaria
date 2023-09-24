@@ -1,5 +1,5 @@
 <h1 align="center">
-   👋 Hi, I'm <a href="https://www.linkedin.com/in/mariamendonca/" target="_blank"> Maria Mendonca </a>
+   👋 Hi, I'm <a href="https://maria-mendonca.vercel.app/" target="_blank"> Maria Mendonca </a>
 </h1>
 <h2 align="center">
    <a href="https://git.io/typing-svg">
