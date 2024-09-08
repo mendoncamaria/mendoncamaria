@@ -8,14 +8,14 @@
 </h2>
 
 
-- 🌱 I’m currently learning: <img alt="" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+- 🌱 I’m currently learning: <img alt="go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
    <br />
    <br />
    
 - 👯 I’m looking to collaborate on **React based Frontend Code**   
   <br />
   
-- 💬 Ask me about **ReactJS, React Native, Javascript**   
+- 💬 Ask me about **ReactJS, React Native, NextJS, TypeScript**   
   <br />
   
 - 😄 Pronouns: She/Her   
@@ -52,7 +52,8 @@
    <img alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
    <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
    <img alt="mui" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
-   <img alt="mui" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+   <img alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+   
 </div>
 
 <h3 align="left">Backend Skills:</h3>
@@ -60,6 +61,7 @@
    <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
    <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
    <img alt="CSharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+   <img alt="go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 </div>
 
 <h3 align="left">Databases :</h3>
