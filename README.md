@@ -104,7 +104,7 @@
        <img src="https://github-readme-stats.vercel.app/api?username=mendoncamaria&show_icons=true&rank_icon=github&theme=merko&locale=en" alt="mendoncamaria" />
     </td>
     <td>
-       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mendoncamaria&show_icons=true&theme=tokyonight&locale=en&layout=pie" alt="mendoncamaria" />
+       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mendoncamaria&show_icons=true&theme=tokyonight&locale=en&layout=pie&langs_count=8" alt="mendoncamaria" />
     </td>
   </tr>
 </table>
