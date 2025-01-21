@@ -112,6 +112,6 @@
 
 <div align="center">
    <p>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mendoncamaria&theme=dracula&mode=daily" alt="GitHub Streak" />
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mendoncamaria&theme=darcula" alt="GitHub Streak" /></a>
    </p>
 </div>
