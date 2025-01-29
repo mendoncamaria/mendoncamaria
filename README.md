@@ -109,10 +109,10 @@
     </td>
   </tr>
 </table>
-<!--
+
 <div align="center">
    <p>
       <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mendoncamaria&theme=darcula" alt="GitHub Streak" /></a>
    </p>
 </div>
--->
+
