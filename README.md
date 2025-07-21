@@ -98,8 +98,9 @@
 <br /><br />
 
  
-
-<table>
+<details>
+  <summary>:zap: GitHub Stats</summary>
+   <table>
   <tr>
     <td>
        <img src="https://github-readme-stats.vercel.app/api?username=mendoncamaria&show_icons=true&rank_icon=github&theme=merko&locale=en" alt="mendoncamaria" />
@@ -110,9 +111,11 @@
   </tr>
 </table>
 
-<div align="center">
-   <p>
+</details>
+
+<details>
+  <summary>:zap: GitHub Streaks</summary>
       <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mendoncamaria&theme=darcula" alt="GitHub Streak" /></a>
    </p>
-</div>
+</details>
 
