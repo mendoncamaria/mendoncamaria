@@ -11,6 +11,11 @@
     <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=mendoncamaria&border_radius=0&custom_title=activity%20graph&hide_title=true&bg_color=2E3440&color=81A1C1&line=88C0D0&point=5E81AC&area_color=D8DEE9&title_color=81A1C1&area=true"/>
   </a> 
 </p>
+<p align="center">
+  <a href="https://github.com/MarieLynneBlock/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mendoncamaria&theme=dracula&&column=9&row=1" />
+  </a>
+</p>
 
 
 - 🌱 I’m currently learning: <img alt="go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
@@ -108,10 +113,10 @@
    <table>
   <tr>
     <td>
-       <img src="https://github-readme-stats.vercel.app/api?username=mendoncamaria&show_icons=true&rank_icon=github&theme=merko&locale=en" alt="mendoncamaria" />
+       <img src="https://github-readme-stats.vercel.app/api?username=mendoncamaria&show_icons=true&rank_icon=github&theme=dracula&locale=en" alt="mendoncamaria" />
     </td>
     <td>
-       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mendoncamaria&show_icons=true&theme=tokyonight&locale=en&layout=pie&langs_count=8" alt="mendoncamaria" />
+       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mendoncamaria&show_icons=true&theme=dracula&locale=en&layout=pie&langs_count=8" alt="mendoncamaria" />
     </td>
   </tr>
 </table>
@@ -120,7 +125,7 @@
 
 <details>
   <summary>:zap: GitHub Streaks</summary>
-      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mendoncamaria&theme=darcula" alt="GitHub Streak" /></a>
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mendoncamaria&theme=dracula" alt="GitHub Streak" /></a>
    </p>
 </details>
 
