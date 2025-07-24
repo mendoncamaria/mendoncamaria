@@ -13,9 +13,21 @@
 </p>
 <p align="center">
   <a href="https://github.com/mendoncamaria/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mendoncamaria&theme=dracula&column=5" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mendoncamaria&theme=dracula&column=3&no-bg=true" />
   </a>
 </p>
+
+<!-- Visitors badge -->
+<!--
+<p align="center">
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmendoncamaria">
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmendoncamaria&label=visitors&labelColor=%232d3440&countColor=%2380a0c0&style=flat-square" />
+  </a>
+</p>
+-->
+
+
+---
 
 
 - 🌱 I’m currently learning: <img alt="go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
