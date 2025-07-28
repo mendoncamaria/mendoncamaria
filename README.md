@@ -1,11 +1,11 @@
 <h1 align="center">
    👋 Hi, I'm <a href="https://maria-mendonca.vercel.app/" target="_blank"> Maria Mendonca </a>
 </h1>
-<h2 align="center">
+<p align="center">
    <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F7226F&width=600&lines=Fullstack+Developer;Cloud+Engineer" alt="Typing SVG" />
    </a>
-</h2>
+</p>
 <p>
   <a href="https://git.io/streak-stats">
     <img height=350 src="https://github-readme-activity-graph.vercel.app/graph?username=mendoncamaria&border_radius=0&custom_title=activity%20graph&hide_title=true&bg_color=2E3440&color=81A1C1&line=88C0D0&point=5E81AC&area_color=D8DEE9&title_color=81A1C1&area=true"/>
